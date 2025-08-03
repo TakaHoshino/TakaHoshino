@@ -1,10 +1,9 @@
 # 你好！ Hi!  こんにちは！
 
 # Taka_Hoshino です。
-# My Profile/我的个人信息
-- Nationality: :cn:
-- Age:16
-- Current residence: Guangdong
+
+# Visitors/访客数
+![Visitors](https://count.getloli.com/@Taka_Hoshino?name=Taka_Hoshino&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 # My Working Environments/工作环境
 
@@ -26,3 +25,7 @@
 - My favourate thinng is flashing Android devices in other ROMs.
 - I’m currently studying Python and C++.
 
+# My Profile/我的个人信息
+- Nationality: :cn:
+- Age:16
+- Current residence: Guangdong
