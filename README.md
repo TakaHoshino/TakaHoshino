@@ -11,8 +11,8 @@
 ![CPU](https://img.shields.io/badge/Intel%20Core_i5_12400f-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Video Card](https://img.shields.io/badge/NVIDIA-RTX2060SUPER-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian%20GNU%2fLinux%2012%20(WSL2)-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Android 15](https://img.shields.io/badge/Android16-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![HyperOS](https://img.shields.io/badge/HyperOS_3-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Android 17](https://img.shields.io/badge/Android17-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![HyperOS](https://img.shields.io/badge/HyperOS_4-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
 # My Devices/我的设备
 
