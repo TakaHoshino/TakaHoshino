@@ -54,8 +54,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-纯 HTML / CSS / 原生 JS 手写的个人主页，零依赖、零构建，推送到 `main` 即由 GitHub Pages 发布。
-所有图形都由 CSS / SVG 手绘，含双主题（白底 / 黑底）、首屏 Three.js 空间层，以及每个项目的独立详情页。
+纯 HTML / CSS /  JS 的个人主页，零构建，推送到 `main` 即由 GitHub Pages 发布。
+所有图形都由 CSS / SVG 绘制，含双主题（白底 / 黑底）、首屏 Three.js 空间层，以及每个项目的独立详情页。
 
 [线上地址](https://takahoshino.github.io/) · [源码](https://github.com/TakaHoshino/takahoshino.github.io)
 
